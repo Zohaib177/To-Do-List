@@ -92,7 +92,7 @@ This project covers core web development concepts:
 ## 👨‍💻 Author
 
 **Your Name**  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@your-Zohaib177](https://github.com/your-username)
 
 ---
 
